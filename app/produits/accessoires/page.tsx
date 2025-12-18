@@ -13,7 +13,7 @@ export default function AccessoiresPage() {
 
     gallery: [
       {
-        image: "/accesoir6.jpeg",
+        image: "/accesoir6.jpg",
         title: "chapaux brodés",
          description: "chapeaux traditionnels ronds en tissu tissé, posés sur une table à côté d’une machine à coudre, suggérant un travail artisanal. L’un est de couleur blanc cassé avec des motifs rayés bordeaux, tandis que l’autre est ocre avec des bandes marron et claires. Leur forme structurée et leurs motifs simples mettent en valeur un savoir-faire textile traditionnel et authentique.",
 
@@ -35,7 +35,7 @@ export default function AccessoiresPage() {
 
       },
       {
-        image: "/chapaux11.jpeg",
+        image: "/accessoir212.jpeg",
         title: "chapaux brodés",
          description: "un chapeau traditionnel accompagné de son complément assorti, tous deux confectionnés en tissu tissé. Les motifs rayés et les couleurs harmonisées donnent un ensemble élégant et cohérent. Réalisé de manière artisanale, cet ensemble reflète un style culturel authentique et un savoir-faire soigné, souvent destiné aux occasions spéciales ou aux tenues traditionnelles."
 
